@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zhangshaolong/mock-proxy-middleware.git"
+    "url": "git+https://github.com/yuexing0921/mock-proxy.git"
   },
   "keywords": ["mock","proxy"],
   "author": "yuexing0921@gmail.com",
